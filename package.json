@@ -1,0 +1,23 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junicus/timestamp-microservice.git"
+  },
+  "author": "Nelson Segarra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Junicus/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/Junicus/timestamp-microservice#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "moment": "^2.11.2"
+  }
+}
